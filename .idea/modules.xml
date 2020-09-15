@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Custom CSS/.idea/Custom CSS.iml" filepath="$PROJECT_DIR$/../Custom CSS/.idea/Custom CSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ISP/.idea/ISP.iml" filepath="$PROJECT_DIR$/../ISP/.idea/ISP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MySchool/.idea/MySchool.iml" filepath="$PROJECT_DIR$/../MySchool/.idea/MySchool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../corona-donation/.idea/corona-donation.iml" filepath="$PROJECT_DIR$/../corona-donation/.idea/corona-donation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../isplicense/.idea/isplicense.iml" filepath="$PROJECT_DIR$/../isplicense/.idea/isplicense.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mk/mikhmon/.idea/mikhmon.iml" filepath="$PROJECT_DIR$/../mk/mikhmon/.idea/mikhmon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mikhmonv3-master/.idea/mikhmonv3-master.iml" filepath="$PROJECT_DIR$/../mikhmonv3-master/.idea/mikhmonv3-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mikro/.idea/mikro.iml" filepath="$PROJECT_DIR$/../mikro/.idea/mikro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mikrotik-API-master/.idea/mikrotik-API-master.iml" filepath="$PROJECT_DIR$/../mikrotik-API-master/.idea/mikrotik-API-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/restur.iml" filepath="$PROJECT_DIR$/.idea/restur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test api/.idea/test api.iml" filepath="$PROJECT_DIR$/../test api/.idea/test api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yashgaur.tk/.idea/yashgaur.tk.iml" filepath="$PROJECT_DIR$/../yashgaur.tk/.idea/yashgaur.tk.iml" />
+    </modules>
+  </component>
+</project>
